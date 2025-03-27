@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Bhragender kumar singh</h1>
 <h3 align="center">I am a first year student and I am entrusted in AI and would like to learn more about it and hope get some experience in this process and learn new things about the computer</h3>
 
-<img align="right" alt="coding" width=300 boder-radius=10 src="https://tenor.com/fnfkmcVpV2K.gif">
+<img align="right" alt="coding" width=300 boder-radius=10 src="[https://tenor.com/fnfkmcVpV2K.gif](https://tenor.com/3Z5D.gif)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhragender06&label=Profile%20views&color=0e75b6&style=flat" alt="bhragender06" /> </p>
 
 - 🔭 I’m currently working on a website **plate pal**
