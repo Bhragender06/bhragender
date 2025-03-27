@@ -1,3 +1,5 @@
+![logo](https://github.com/Bhragender06/bhragender/blob/main/github-header-image%20(1).png)
+
 <h1 align="center">Hi 👋, I'm Bhragender kumar singh</h1>
 <h3 align="center">I am a first year student and I am entrusted in AI and would like to learn more about it and hope get some experience in this process and learn new things about the computer</h3>
 
